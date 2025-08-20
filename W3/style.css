@@ -1,0 +1,18 @@
+#script {
+    color: blue;
+    text-align: center;
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+#title {
+    color: orange;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+#id1 {
+    color: red;
+    text-align: center;
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
